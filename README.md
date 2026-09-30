@@ -6,6 +6,7 @@ Sirp is a community-first sports and activity tracking application designed to b
 Whether you are taking your first steps toward an active lifestyle or organizing regular athletic events, Sirp turns solitary exercise into a supportive, connected experience.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🎯 What Problem Sirp Solves
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
