@@ -8,6 +8,7 @@ Whether you are taking your first steps toward an active lifestyle or organizing
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🎯 What Problem Sirp Solves
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 • Lack of Consistency & Loneliness: Solves the difficulty of maintaining fitness routines alone by enabling you to easily discover and join welcoming local exercise groups.
 • Fragmented Meetups: Eliminates disorganized group coordination scattered across multiple chat apps and social platforms by providing a centralized hub with interactive maps, geofencing, and automated notifications for nearby activities.
 • Beginner Intimidation: Replaces intimidating, performance-heavy environments with an inclusive, social-first platform focused on community support and progressive habit-building.
@@ -15,6 +16,7 @@ Whether you are taking your first steps toward an active lifestyle or organizing
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ✨ Main Features
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 📍 Location-Based Meetups & Geofencing:
 Discover, create, and join nearby group runs, walks, or sports activities using live map integration. Get notified automatically when you arrive at your registered sporting venue.
 
@@ -30,6 +32,7 @@ Real-time group updates, localized activity feeds, and push notifications for up
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 👥 Who Should Use Sirp?
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 • Beginners looking for motivation, structure, and friendly companions to start their fitness journey without judgment.
 • Active Individuals & Casual Runners seeking local sports communities, nearby matches, and organized group events.
 • Community Leaders & Group Captains who want an easy, automated platform to coordinate local athletic gatherings and track participation effortlessly.
@@ -37,6 +40,7 @@ Real-time group updates, localized activity feeds, and push notifications for up
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 💡 Why Sirp is Different
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🌟 Community-Driven Over Pure Metrics:
 Unlike traditional fitness trackers that emphasize isolated competitive metrics, Sirp focuses on real-world social connection and shared experiences.
 
