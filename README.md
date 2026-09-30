@@ -8,6 +8,7 @@ Whether you are taking your first steps toward an active lifestyle or organizing
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🎯 What Problem Sirp Solves
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 • Lack of Consistency & Loneliness: Solves the difficulty of maintaining fitness routines alone by enabling you to easily discover and join welcoming local exercise groups.
@@ -15,7 +16,9 @@ Whether you are taking your first steps toward an active lifestyle or organizing
 • Beginner Intimidation: Replaces intimidating, performance-heavy environments with an inclusive, social-first platform focused on community support and progressive habit-building.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 ✨ Main Features
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📍 Location-Based Meetups & Geofencing:
@@ -31,7 +34,9 @@ Streak management, local leaderboards, and group challenges designed to boost lo
 Real-time group updates, localized activity feeds, and push notifications for upcoming gatherings and friend activities.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 👥 Who Should Use Sirp?
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 • Beginners looking for motivation, structure, and friendly companions to start their fitness journey without judgment.
@@ -39,7 +44,9 @@ Real-time group updates, localized activity feeds, and push notifications for up
 • Community Leaders & Group Captains who want an easy, automated platform to coordinate local athletic gatherings and track participation effortlessly.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 💡 Why Sirp is Different
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🌟 Community-Driven Over Pure Metrics:
